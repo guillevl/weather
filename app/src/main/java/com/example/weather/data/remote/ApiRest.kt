@@ -10,7 +10,7 @@ object ApiRest {
     val lon = -2
     val units = "metric"
     val lang = "es"
-    val appid = "4af34be67a6497bd8750c2a48a52c987"
+    val appid = "f740435423dbe08c30ddf4ab8495ada8"
     init {
         initService()
     }
